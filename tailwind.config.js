@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        darkRed: '#8B0000', // Example primary color
+      },
       fontFamily: {
         'garamond': ['Garamond'],
       },
