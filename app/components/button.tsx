@@ -3,12 +3,17 @@ import Link from 'next/link';
 
 interface ButtonProps {
   title: string;
-  link: string;
+  link?: string;
+  onClick?: () => void;
+  style: string;
 }
 
-const Button: React.FC<ButtonProps> = ({ title, link }) => {
+const Button: React.FC<ButtonProps> = ({ title, link, onClick, style }) => {
+  if (!link) link = "#";
+  if (!onClick) onClick = () => {console.log('Happened!')};
+
   return (
-    <Link href={link} className="border border-black rounded-lg bg-darkRed text-white m-2 p-8">
+    <Link href={link} className={style} onClick={onClick}>
       {title}
     </Link>
   );
