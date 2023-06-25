@@ -33,7 +33,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>
@@ -52,7 +52,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>
@@ -71,7 +71,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>
@@ -90,7 +90,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>
@@ -110,7 +110,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>
@@ -130,7 +130,7 @@ export default function ProfilesPage() {
           England and Ireland, who died childless. He continued to reign in all three kingdoms for 22 years, 
           a period known as the Jacobean era, until his death in 1625. After the Union of the Crowns, he based 
           himself in England (the largest of the three realms) from 1603, returning to Scotland only once, in 
-          1617, and styled himself "King of Great Britain and Ireland". He was a major advocate of a single 
+          1617, and styled himself King of Great Britain and Ireland. He was a major advocate of a single 
           parliament for England and Scotland. In his reign, the Plantation of Ulster and English colonisation 
           of the Americas began.
         </Card>

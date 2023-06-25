@@ -12,19 +12,19 @@ export default function SourcesPage() {
       </h1>
 
       <h2 className="text-2xl font-garamond">
-        Henry Goodcole's Wonderful Discovery of Elizabeth Sawyer
+        Henry Goodcoles Wonderful Discovery of Elizabeth Sawyer
       </h2>
       <h2 className="text-2xl font-garamond">
         The Scottish Witchcraft statute of 1563. Also revised in 1604
       </h2>
       <h2 className="text-2xl font-garamond">
-        James VI's Daemonology
+        James VIs Daemonology
       </h2>
       <h2 className="text-2xl font-garamond">
-        Reginald Scot's The Unreality of Witchcraft
+        Reginald Scots The Unreality of Witchcraft
       </h2>
       <h2 className="text-2xl font-garamond">
-        William Perkins' Good and Bad Witches
+        William Perkins Good and Bad Witches
       </h2>
       <h2 className="text-2xl font-garamond">
         Newes from Scotland
