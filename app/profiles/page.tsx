@@ -1,8 +1,13 @@
+'use client'
+
 import Card from "../components/profileCard";
+import Navbar from "../components/navbar";
 
 export default function ProfilesPage() {
   return (
     <div className="min-h-screen w-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+      <Navbar/>
+
       <h1 className="font-garamond text-8xl">
         Profiles Page
       </h1>
