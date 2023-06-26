@@ -59,6 +59,9 @@ export default function MonarchsChronologyPage() {
         Monarchs Chronology Page
       </h1>
 
+      <p className="bg-darkRed text-white p-2 w-3/4 rounded-lg border border-black m-2 text-2xl">
+        Use this page to help yourself manage the chronology of the monarchs. The white ones have been highlighted as they were closer to when this course focuses on
+      </p>
 
       <div className="flex flex-wrap">
         <Button title="Henry VII" onClick={set1} style="border border-black rounded-md rounded-md p-2 px-8 m-2"/>
