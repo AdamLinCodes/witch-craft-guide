@@ -57,7 +57,7 @@ export default function Christianity() {
           <li>However also recognizes the importance of tradition</li>
           <li>Anglicans allow for a degree of interpretation of scripture and teachings</li>
           <li>Affirms similar sacrements to those of catholicism: baptism, confirmation, eucharist, anointing the sick, etc. </li>
-          <li>Theology of sacrements differs as Anglicanssee them as converying God's Grace, whereas catholics use them as primarily symbolic</li>
+          <li>{`Theology of sacrements differs as Anglicanssee them as converying God's Grace, whereas catholics use them as primarily symbolic`}</li>
           <li>Architecture drew from both Catholic and Protestant styles</li>
           <li>Often contain depictions of biblical stories in the stained glass windows</li>
         </ul>
