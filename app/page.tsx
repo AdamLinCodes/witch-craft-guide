@@ -11,7 +11,7 @@ export default function HomePage() {
         Witches and Witchcraft in Britain 1500 - 1700
       </h1>
 
-      <div className="font-garamond text-2xl w-3/4">
+      <div className="font-garamond text-2xl border-2 border-black bg-white rounded-lg p-8 w-4/5">
         Welcome all! For those of you are in the same situation that I was, wherein I was enrolled in a course title Witches and 
         Witchcraft in Britain 1500 - 1700, or as we often refer to it: Witches and Witchcraft in Early-Modern Britain, you may be 
         experience a great deal of difficulty managing the historical overhead and intricacies of the stories. Whether that’d be 
