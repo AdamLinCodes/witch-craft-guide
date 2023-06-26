@@ -8,38 +8,47 @@ import Navbar from "../components/navbar";
 export default function MonarchsChronologyPage() {
   const [photoLoc, setPhotoLoc] = useState('');
   const [title, setTitle] = useState('');
+  const [text, setText] = useState('Start by selected one of the above monarchs');
 
   const set1 = () => {
     setPhotoLoc("/images/HenryVII.jpg");
     setTitle("Henry VII");
+    setText("First of the House of Tudor to become king. Reigned from 1485-1509. Predecessor was Richard III, and successor was Henry VIII.");
   }
   const set2 = () => {
     setPhotoLoc("/images/HenryVIII.jpg");
     setTitle("Henry VIII");
+    setText("Best known for his 6 marriages and creation of the Church of England. Reigned from 1509-1547. Predecessor was Henry VII, and successor was Edward VI.");
   }
   const set3 = () => {
     setPhotoLoc("/images/EdwardVI.jpg");
     setTitle("Edward VI");
+    setText("Crowned in 1547 at the age of 9, and died at the age 15. Reigned from 1547-1553. Predecessor was Henry VIII, and successor was Jane Grey.");
   }
   const set4 = () => {
     setPhotoLoc("/images/JaneGrey.webp");
     setTitle("Jane Grey");
+    setText("Famously known as the Nine Day's Queen. Reigned briefly in 1553. Predecessor was Edward VI, and successor was Mary I.");
   }
   const set5 = () => {
     setPhotoLoc("/images/MaryI.webp");
     setTitle("Mary I");
+    setText("Cruely known as Bloody Mary for burning hundreds of her protestant heretics at the stake. Predecessor was Jane Grey, and successor was Elizabeth I.");
   }
   const set6 = () => {
     setPhotoLoc("/images/ElizabethI.jpg");
     setTitle("Elizabeth I");
+    setText("Commonly known as the Virgin Queen as she never married nor borne children. Predecessor was Mary I, James I.");
   }
   const set7 = () => {
     setPhotoLoc("/images/KingJames.jpg");
-    setTitle("James I of England");
+    setTitle("James VI and I");
+    setText("A firm believer in witchcraft, after a visit to Denmark which sparked an interest in the subject. Predecessor was Elizabeth I, and successor was Charles I.");
   }
   const set8 = () => {
     setPhotoLoc("/images/KingCharles.jpg");
     setTitle("Charles I");
+    setText("Famously provoked his people to revolt, leading to his execution. The only English monarch to be tried and executed for treason. Predecessor was James VI and I, and successor was Charles II.");
   }
 
   return (
@@ -70,7 +79,7 @@ export default function MonarchsChronologyPage() {
       </div>
 
       <Screen location={photoLoc} title={title}>
-        Blah blash blash blah blah blah blah blah
+        {text}
       </Screen>
     </div>
   )
